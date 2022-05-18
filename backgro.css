@@ -1,0 +1,6 @@
+h1 {font-size: 44px;
+    color: rgb(0, 0, 0);
+    text-align: center;}
+    
+    /*body {background-color:rgb(230, 218, 255);}Šis ir krāsu fona paraugs TAVA MAMMA*/
+    body {background-image: url(backgrount2.jpg);}
